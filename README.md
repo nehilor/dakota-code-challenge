@@ -96,3 +96,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+## OpenAPI
+
+It will require your OpenAI API key to be set as an environment variable `OPENAI_API_KEY`.
